@@ -26,6 +26,9 @@ ol, ul {
   padding-bottom: 24px;
 }
 
+/* .header-container {
+  outline: 1px solid #ECECEC;
+} */
 
 img {
     display: block;
@@ -404,5 +407,5 @@ padding: 0 215px 95px;
 }
 
 .project-item {
-  width: calc((100%-  60px) / 3);
+width: calc((100%-  60px) / 3);
 }

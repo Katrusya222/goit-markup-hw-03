@@ -137,7 +137,7 @@ body {
   margin-left: auto;
 }
 
-.hero-container {
+.hero {
   /* padding-top: 200px;
   padding-bottom: 200px; */
   justify-content: center;
@@ -221,7 +221,7 @@ body {
 /* Чем мы занимаемся */
 
 .activity {
-padding-top: 95px;
+/* padding-top: 95px; */
 padding-bottom: 95px;
 }
 
@@ -287,7 +287,7 @@ padding-bottom: 95px;
 }
 
 .team-people-position {
-  padding: 30px 70px;
+  padding: 30px 10px;
   text-align: center;
 }
 
@@ -316,7 +316,7 @@ padding-bottom: 95px;
   background: #2f303a;
 }
 
-.footer-container {
+.footer {
   padding-top: 60px;
   padding-bottom: 60px;
   /* padding-left: 215px; */
@@ -438,7 +438,7 @@ width: calc((100%-  60px) / 3);
 
 .photo-galery {
   padding: 20px 24px;
-  outline: 1px solid red;
+  border: 1px solid #eeeeee;
 }
 
 .address li {
